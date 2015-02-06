@@ -7,4 +7,13 @@ public class HolaMundo {
 	public HolaMundo() {
 		hola = "Hola mundo";
 	}
+
+	public String getHola() {
+		return hola;
+	}
+
+	public void setHola(String hola) {
+		this.hola = hola;
+	}
+	
 }
