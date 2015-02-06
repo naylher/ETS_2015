@@ -5,7 +5,7 @@ public class HolaMundo {
 	private String hola;
 	
 	public HolaMundo() {
-		hola = "Hola mundo cruel";
+		hola = "Hola mundo cruel 2.0";
 	}
 
 }
